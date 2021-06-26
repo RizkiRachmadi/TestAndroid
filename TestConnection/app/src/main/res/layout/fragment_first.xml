@@ -140,7 +140,7 @@
         android:layout_marginTop="40dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Label 3"
+        android:text="Label 7"
         android:textSize="14dp"
         app:layout_constraintStart_toStartOf="@id/center_vertical_1"
         app:layout_constraintTop_toBottomOf="@id/tv_6" />
@@ -160,7 +160,7 @@
         android:layout_marginTop="40dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Label 4"
+        android:text="Label 8"
         android:textSize="14dp"
         app:layout_constraintStart_toStartOf="@id/center_vertical_1"
         app:layout_constraintTop_toBottomOf="@id/tv_7" />
